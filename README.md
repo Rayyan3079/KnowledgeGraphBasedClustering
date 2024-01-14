@@ -14,10 +14,12 @@ networkx
 scikit-learn
 matplotlib
 
+## CLustering Methods Used
+- ## Kmeans 
+- ## HDBscan
+
 ## Results
-- ## Knowledge Graph
 ![image](https://github.com/Rayyan3079/KnowledgeGraphBasedClustering/assets/124567636/83b85a36-c561-4aea-a36d-648d44d9eaad)
-- ## Clustering
 ![image](https://github.com/Rayyan3079/KnowledgeGraphBasedClustering/assets/124567636/4675f079-96d0-4d1f-9174-3c2481373d70)
 
 
